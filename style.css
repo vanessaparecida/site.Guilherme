@@ -16,4 +16,24 @@
     margin: 0 16px;
     font-size: 20px;
   }
+
+  .image.inicio {
+    width: 25%;
+  }
+
+  #inicio {
+    background-image: linear-gradient(#bd6600, #ffffff);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+  }
   
+  div-inicio {
+    width: 35%
+  }
+
+  titulo-inicio {
+    padding: 24px 0;
+  }
